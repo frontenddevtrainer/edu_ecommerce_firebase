@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1029053761989",
+    "project_id": "edu-flutter-demo",
+    "storage_bucket": "edu-flutter-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029053761989:android:b046ecdb8d2349d1eca3ac",
+        "android_client_info": {
+          "package_name": "com.example.edu_ecommerce_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1029053761989-9u8m7a8l0q3gblilp70p1c88q8432gto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUr7j9GUCslWdZ0mjDuADREF6q-IE4jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1029053761989-9u8m7a8l0q3gblilp70p1c88q8432gto.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1029053761989-ocksfuuno34pr88b9b9flo51jh9s39t8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eduEcommerceFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
